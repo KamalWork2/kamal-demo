@@ -1,3 +1,3 @@
 # kamal-demo
 This is My First Git Repository
-Authet - Kamal
+Auther - Kamal
